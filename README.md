@@ -1,5 +1,6 @@
 # DreamBelt
 Arduino MKR1010 implementation of an ActiGraph
+
 Note:
 Fell free to contribute!
 The whole project was born during a 24h hacklaton so the code may not be as good as possile
